@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama_penjual": "PT Kaki Sepuluh",
+    "tipe_penjual": "EC",
+    "lokasi": "A1"
+  },
+  {
+    "id": 2,
+    "nama_penjual": "CV Jual Rugi",
+    "tipe_penjual": "GR",
+    "lokasi": "C2"
+  },
+  {
+    "id": 3,
+    "nama_penjual": "Tummy Needs",
+    "tipe_penjual": "AB",
+    "lokasi": "D4"
+  },
+  {
+    "id": 4,
+    "nama_penjual": "DMA Lontong",
+    "tipe_penjual": "GR",
+    "lokasi": "A10"
+  }
+]

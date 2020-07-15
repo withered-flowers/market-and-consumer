@@ -1,0 +1,27 @@
+[
+  {
+    "nama_pelanggan": "Alpha",
+    "total_transaksi": 100,
+    "id_penjual": 1
+  },
+  {
+    "nama_pelanggan": "Beta",
+    "total_transaksi": 250,
+    "id_penjual": 2
+  },
+  {
+    "nama_pelanggan": "Charlie",
+    "total_transaksi": 150,
+    "id_penjual": 2
+  },
+  {
+    "nama_pelanggan": "Charlie",
+    "total_transaksi": 50,
+    "id_penjual": 3
+  },
+  {
+    "nama_pelanggan": "Epsilon",
+    "total_transaksi": 75,
+    "id_penjual": 4
+  }
+]

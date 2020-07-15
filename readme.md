@@ -57,7 +57,7 @@ node index.js listAll
 Untuk menampilkan listing dari setiap Penjual beserta data Pelanggannya dalam
 bentuk seperti berikut:
 
-<img src="assets/listall.png">
+<img src="assets/listall.PNG">
 
 ## Release 4: Add Penjual
 Selanjutnya, buatlah fitur untuk menambahkan Penjual dengan syarat:

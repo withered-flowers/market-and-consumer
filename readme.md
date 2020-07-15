@@ -57,7 +57,7 @@ node index.js listAll
 Untuk menampilkan listing dari setiap Penjual beserta data Pelanggannya dalam
 bentuk seperti berikut:
 
-![](assets/listall.png)
+<img src="assets/listall.png">
 
 ## Release 4: Add Penjual
 Selanjutnya, buatlah fitur untuk menambahkan Penjual dengan syarat:
@@ -132,7 +132,7 @@ node index.js showTablePenjual
 
 Outputnya adalah sebagai berikut:  
 
-![](assets/showtablepenjual.png)
+<img src="assets/showtablepenjual.png">
 
 Hint: ubah menjadi object literal !
 
